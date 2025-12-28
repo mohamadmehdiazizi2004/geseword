@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Background -->
+    <color name="bg_top">#FFF8F1</color>        <!-- کرمی خیلی روشن -->
+    <color name="bg_bottom">#FFEAD7</color>     <!-- کرمی متمایل به نارنجی -->
+
+    <!-- Surface / Cards -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_soft">#FFF3E6</color>
+
+    <!-- Borders -->
+    <color name="stroke_soft">#F2D3B3</color>
+
+    <!-- Text -->
+    <color name="text_primary">#3A2A1F</color>
+    <color name="text_secondary">#7A5A44</color>
+
+    <!-- Accents -->
+    <color name="accent_x">#FB923C</color>   <!-- نارنجی روشن -->
+    <color name="accent_o">#FDBA74</color>   <!-- نارنجی ملایم -->
+    <color name="win">#22C55E</color>
+
+    <!-- Ripple -->
+    <color name="ripple">#FFD8B0</color>
+    <color name="x_blue">#2563EB</color>
+    <color name="o_red">#DC2626</color>
+
+
+</resources>

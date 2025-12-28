@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Quesation" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Orange/White Theme -->
+        <item name="colorPrimary">@color/orange_700</item>
+        <item name="colorPrimaryDark">@color/orange_700</item>
+        <item name="colorAccent">@color/orange_600</item>
+
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/text_dark</item>
+    </style>
+
+</resources>
